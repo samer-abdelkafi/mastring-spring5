@@ -8,7 +8,7 @@
 		<version>2.1.5.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.mastring.spring.cloud</groupId>
+	<groupId>com.mastering.spring.cloud</groupId>
 	<artifactId>microservice-a</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>microservice-a</name>

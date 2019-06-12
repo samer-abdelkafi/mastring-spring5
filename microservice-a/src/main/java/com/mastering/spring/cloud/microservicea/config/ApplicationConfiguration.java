@@ -1,4 +1,4 @@
-package com.mastring.spring.cloud.microservicea.config;
+package com.mastering.spring.cloud.microservicea.config;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;

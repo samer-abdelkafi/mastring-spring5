@@ -1,4 +1,4 @@
-package com.mastring.spring.cloud.microservicea;
+package com.mastering.spring.consumer;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class MicroserviceAApplicationTests {
+public class ServiceConsumerApplicationTests {
 
 	@Test
 	public void contextLoads() {
